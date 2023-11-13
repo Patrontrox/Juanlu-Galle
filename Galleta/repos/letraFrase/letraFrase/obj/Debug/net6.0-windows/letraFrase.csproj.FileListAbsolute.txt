@@ -1,0 +1,16 @@
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\bin\Debug\net6.0-windows\letraFrase.exe
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\bin\Debug\net6.0-windows\letraFrase.deps.json
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\bin\Debug\net6.0-windows\letraFrase.runtimeconfig.json
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\bin\Debug\net6.0-windows\letraFrase.dll
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\bin\Debug\net6.0-windows\letraFrase.pdb
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.Form1.resources
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.csproj.GenerateResource.cache
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.AssemblyInfoInputs.cache
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.AssemblyInfo.cs
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.csproj.CoreCompileInputs.cache
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.dll
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\refint\letraFrase.dll
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.pdb
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\letraFrase.genruntimeconfig.cache
+C:\Users\Instituto\source\repos\letraFrase\letraFrase\obj\Debug\net6.0-windows\ref\letraFrase.dll

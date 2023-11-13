@@ -1,0 +1,10 @@
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\bin\Debug\ejercicioBaseDatos.accdb
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\bin\Debug\ejercicioBaseDatos.exe.config
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\bin\Debug\ejercicioBaseDatos.exe
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\bin\Debug\ejercicioBaseDatos.pdb
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\obj\Debug\ejercicioBaseDatos.csproj.AssemblyReference.cache
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\obj\Debug\ejercicioBaseDatos.Properties.Resources.resources
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\obj\Debug\ejercicioBaseDatos.csproj.GenerateResource.cache
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\obj\Debug\ejercicioBaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\obj\Debug\ejercicioBaseDatos.exe
+C:\Users\Instituto\source\repos\ejercicioBaseDatos\ejercicioBaseDatos\obj\Debug\ejercicioBaseDatos.pdb

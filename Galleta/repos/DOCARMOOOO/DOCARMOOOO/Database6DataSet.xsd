@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Database6DataSet" targetNamespace="http://tempuri.org/Database6DataSet.xsd" xmlns:mstns="http://tempuri.org/Database6DataSet.xsd" xmlns="http://tempuri.org/Database6DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Database6ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Database6ConnectionString (Settings)" PropertyReference="ApplicationSettings.DOCARMOOOO.Properties.Settings.GlobalReference.Default.Database6ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Tabla1TableAdapter" GeneratorDataComponentClassName="Tabla1TableAdapter" Name="Tabla1" UserDataComponentName="Tabla1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Database6ConnectionString (Settings)" DbObjectName="Tabla1" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Id, Nombre FROM Tabla1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Database6DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="Database6DataSet" msprop:Generator_DataSetName="Database6DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tabla1" msprop:Generator_RowEvHandlerName="Tabla1RowChangeEventHandler" msprop:Generator_RowDeletedName="Tabla1RowDeleted" msprop:Generator_RowDeletingName="Tabla1RowDeleting" msprop:Generator_RowEvArgName="Tabla1RowChangeEvent" msprop:Generator_TablePropName="Tabla1" msprop:Generator_RowChangedName="Tabla1RowChanged" msprop:Generator_RowChangingName="Tabla1RowChanging" msprop:Generator_TableClassName="Tabla1DataTable" msprop:Generator_RowClassName="Tabla1Row" msprop:Generator_TableVarName="tableTabla1" msprop:Generator_UserTableName="Tabla1">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

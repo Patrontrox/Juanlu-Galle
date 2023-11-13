@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ej3W:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ej3W_jar</output-path>
+    <root id="archive" name="Ej3W.jar">
+      <element id="module-output" name="Ej3W" />
+    </root>
+  </artifact>
+</component>

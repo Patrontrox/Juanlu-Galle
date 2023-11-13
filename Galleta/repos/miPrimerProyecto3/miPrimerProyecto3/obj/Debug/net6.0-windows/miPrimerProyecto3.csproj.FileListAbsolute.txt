@@ -1,0 +1,17 @@
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\bin\Debug\net6.0-windows\miPrimerProyecto3.exe
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\bin\Debug\net6.0-windows\miPrimerProyecto3.deps.json
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\bin\Debug\net6.0-windows\miPrimerProyecto3.runtimeconfig.json
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\bin\Debug\net6.0-windows\miPrimerProyecto3.dll
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\bin\Debug\net6.0-windows\miPrimerProyecto3.pdb
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.Form1.resources
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.csproj.GenerateResource.cache
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.AssemblyInfoInputs.cache
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.AssemblyInfo.cs
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.csproj.CoreCompileInputs.cache
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.dll
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\refint\miPrimerProyecto3.dll
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.pdb
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.genruntimeconfig.cache
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\ref\miPrimerProyecto3.dll
+C:\Users\Instituto\source\repos\miPrimerProyecto3\miPrimerProyecto3\obj\Debug\net6.0-windows\miPrimerProyecto3.formFormulario.resources
